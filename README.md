@@ -1,3 +1,12 @@
+# Original Credits
+Rohith Reddy (@rohith)
+
+# Original Repository
+https://github.com/brandedoutcast/publish-nuget
+
+# Why forked
+Because original action didn't support publishing to private Nuget.Server based sources since they do not use v3 feed hosted at <source-uri>/api/v3/index.json
+
 # ✨ Publish NuGet
 GitHub action to build, pack & publish nuget packages automatically when a project version is updated
 

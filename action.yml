@@ -1,6 +1,6 @@
 name: Publish NuGet (Private Nuget.Server)
 author: Rahul Mittal (@rollycodes) 
-description: Build, Pack & Publish a NuGet package to a private nuget server running Nuget.Server with dotnet core on project version change. Original Credits - OriginalRohith Reddy (@rohith)
+description: Build, Pack & Publish a NuGet package to a rivate Nuget.Server source on project version change. Original - Rohith Reddy (@rohith)
 
 inputs:
     PROJECT_FILE_PATH:
